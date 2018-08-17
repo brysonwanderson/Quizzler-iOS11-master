@@ -20,7 +20,4 @@ class Question {
 }
 
 
-class myOtherClass {
-    let  question = Question(text: "Example Question", correctAnswer: true)
-    let question2 = Question(text: "Another Example", correctAnswer: false)
-}
+
